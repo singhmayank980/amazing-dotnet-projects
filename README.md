@@ -1,2 +1,4 @@
 # amazing-dotnet-projects
-This repository is dedicate for amazing projects for .NET Developers. everyone welcome to Hacktoberfest 2022
+This repository is dedicate for amazing projects by .NET Developers. everyone welcome to Hacktoberfest 2022
+Add your favorite .NET project to this repository.
+ 
